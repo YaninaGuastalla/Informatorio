@@ -1,0 +1,37 @@
+1) 	edad=
+if edad > 18 :
+	print('puede votar')
+else:
+	print('no puede votar')
+
+2) 	nro=
+if nro > 0 :
+	print('positivo')
+elif nro==0 :
+	print(0)
+else:
+	print('negativo')
+
+3) 	nro1=
+	nro2=
+if nro1 > nro2 :
+	print('es mayor')
+else:
+	print('es menor')
+
+4)	nota=
+if nota >= 0 and nota <= 5 :
+	print('desaprobado')
+elif nota >= 6 and nota <= 10:
+	print('aprobado')
+
+5) nro=
+if nro % 2 == 0 :
+	print('par')
+else:
+	print('impar')
+
+6) k
+
+
+
